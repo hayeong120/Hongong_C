@@ -1,2 +1,22 @@
-﻿  4-8.c
+﻿  4-9.c
+C:\Hongong_C\04\4-9.c(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  C:\Hongong_C\04\4-9.c(8,9):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Hongong_C\04\4-9.c(9,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  C:\Hongong_C\04\4-9.c(9,9):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Hongong_C\04\4-9.c(10,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  C:\Hongong_C\04\4-9.c(10,9):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Hongong_C\04\4-9.c(11,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  C:\Hongong_C\04\4-9.c(11,9):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Hongong_C\04\4-9.c(12,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  C:\Hongong_C\04\4-9.c(12,9):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
   04.vcxproj -> C:\Hongong_C\04\x64\Debug\04.exe
