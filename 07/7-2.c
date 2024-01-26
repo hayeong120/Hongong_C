@@ -14,9 +14,14 @@ int main(void)
 int get_num(void)
 {
 	int num;
-
 	printf("양수 입력 : ");
 	scanf("%d", &num);
+	while (num < 0)
+	{
+		printf("양수를 입력하세요!\n");
+		printf("양수 입력 : ");
+		scanf("%d", &num);
+	}
 
 	return num;
 }
