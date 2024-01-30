@@ -18,5 +18,11 @@
     <ClCompile Include="8-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="8-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8-3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
