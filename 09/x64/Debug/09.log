@@ -1,8 +1,1 @@
-﻿  9-1.c
-C:\Hongong_C\09\9-1.c(9,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
-C:\Hongong_C\09\9-1.c(9,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
-C:\Hongong_C\09\9-1.c(10,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
-C:\Hongong_C\09\9-1.c(10,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) double *' 형식의 인수 1과(와) 충돌합니다.
-C:\Hongong_C\09\9-1.c(11,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
-C:\Hongong_C\09\9-1.c(11,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
-  09.vcxproj -> C:\Hongong_C\09\x64\Debug\09.exe
+﻿  09.vcxproj -> C:\Hongong_C\09\x64\Debug\09.exe
